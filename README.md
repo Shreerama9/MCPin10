@@ -1,8 +1,7 @@
 # MCP in 10 Minutes
 Learn how to build a MCP Server for Yahoo Finance (and just about anything else) in 10 minutes. 
 
-## See it live and in action 📺
-<img src="https://i.imgur.com/P1uv4QN.jpeg"/>
+
 
 # Startup 🚀
 1. Clone this repository `git clone https://github.com/nicknochnack/MCPin10` and go into it `cd MCPin10`
